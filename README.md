@@ -103,7 +103,7 @@ cliente, producto y pedido, con el siguiente script.</p>
 
 <h2>Flujo de componentes</h2>
 
-<a href="https://github.com/Ivanse90/tienda_de_barrio/blob/main/FlujoComponentes.jpg">Ivan</a>
+<a href="https://github.com/Ivanse90/tienda_de_barrio/blob/main/FlujoComponentes.jpg">Diagrama de Componentes</a>
 
 <h2>Documentacion Swagger</h2>
 <a href="https://github.com/Ivanse90/tienda_de_barrio/blob/main/ProductoSwagger%20UI.pdf">Domcumentacion API Productos</a>
