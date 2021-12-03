@@ -88,11 +88,11 @@
 
 
 <h2>Documentacion Swagger</h2>
-<a href="http://localhost:8080/swagger-ui.html">Domcumentacion API Productos</a>
+<a href="https://github.com/Ivanse90/tienda_de_barrio/blob/main/ProductoSwagger%20UI.pdf">Domcumentacion API Productos</a>
 <p> </p>
-<a href="http://localhost:8081/swagger-ui.html">Domcumentacion API Pedidos</a>
+<a href="https://github.com/Ivanse90/tienda_de_barrio/blob/main/PedidoSwagger%20UI.pdf">Domcumentacion API Pedidos</a>
 <p> </p>
-<a href="http://localhost:8082/swagger-ui.html">Domcumentacion API Clientes</a>
+<a href="https://github.com/Ivanse90/tienda_de_barrio/blob/main/ClientesSwagger%20UI.pdf">Domcumentacion API Clientes</a>
 <p> </p>
 <a href="https://github.com/Ivanse90/tienda_de_barrio/blob/main/Requerimientos%20de%20software%20Mi%20tienda.pdf">Vistas del diseño web</a>
 
