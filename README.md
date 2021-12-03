@@ -94,7 +94,6 @@
 <p> </p>
 <a href="https://github.com/Ivanse90/tienda_de_barrio/blob/main/ClientesSwagger%20UI.pdf">Domcumentacion API Clientes</a>
 <p> </p>
-<a href="https://github.com/Ivanse90/tienda_de_barrio/blob/main/Requerimientos%20de%20software%20Mi%20tienda.pdf">Vistas del diseño web</a>
 
 <h2>Mockups</h2>
 <a href="https://github.com/Ivanse90/tienda_de_barrio/blob/main/Requerimientos%20de%20software%20Mi%20tienda_Final.pdf">johana</a>
