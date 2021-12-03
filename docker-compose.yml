@@ -1,0 +1,14 @@
+version: "3.8"
+services:
+    clientes:
+        image: service-clientes:latest
+        ports:
+            - 8082:8082
+    pedidos:
+        image: service-pedidos:latest
+        ports:
+            - 8081:8081
+    productos:
+        image: service-productos:latest
+        ports:
+            - 8080:8080
