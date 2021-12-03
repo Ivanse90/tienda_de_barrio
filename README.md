@@ -76,10 +76,22 @@
 <a href="https://github.com/Ivanse90/tienda_de_barrio/blob/main/Requerimientos%20de%20software%20Mi%20tienda_Final.pdf">johana</a>
 
 <h2>Base de Datos - Script de base de datos</h2>
-<li><b>Creación de la base de datos </b> </li>
+
+<li><b>Creación </b> </li>
 </ul>
 <p>Para la creación de la base de datos se utiliza postgresql y se crea con el siguiente script</p>
-<a href="https://github.com/Ivanse90/tienda_de_barrio/blob/main/DB.sql">- Creación de la base de datos</a>
+<a href="https://github.com/Ivanse90/tienda_de_barrio/blob/main/DB.sql">Creación de la base de datos</a>
+
+<li><b>Estructura </b> </li>
+</ul>
+<p>En la estructuración de la base de datos se crearon 3 tablas como se evidencia en el modelo entidad relación, las tablas son la de 
+cliente, producto y pedido, con el siguiente script.</p>
+<a href="https://github.com/Ivanse90/tienda_de_barrio/blob/main/tablas.sql">Estructura de la base de datos</a>
+
+<li><b>Datos </b> </li>
+</ul>
+<p>Para poder probar la estructura, los servicios y de más aspectos se alimenta la base de datos con algunos datos aleatorios a través del siguiente script</p>
+<a href="https://github.com/Ivanse90/tienda_de_barrio/blob/main/datos.sql">Carga de información a la base de datos</a>
 
 <h2>Microservicios</h2>
 
