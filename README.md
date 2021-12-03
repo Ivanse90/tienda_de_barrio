@@ -76,7 +76,10 @@
 <a href="https://github.com/Ivanse90/tienda_de_barrio/blob/main/Requerimientos%20de%20software%20Mi%20tienda_Final.pdf">johana</a>
 
 <h2>Base de Datos - Script de base de datos</h2>
-<a href="https://github.com/Ivanse90/tienda_de_barrio/blob/main/Requerimientos%20de%20software%20Mi%20tienda_Final.pdf">johana</a>
+<li><b>Creación de la base de datos </b> </li>
+</ul>
+<p>Para la creación de la base de datos se utiliza postgresql y se crea con el siguiente script</p>
+<a href="https://github.com/Ivanse90/tienda_de_barrio/blob/main/DB.sql">- Creación de la base de datos</a>
 
 <h2>Microservicios</h2>
 
