@@ -101,6 +101,9 @@ cliente, producto y pedido, con el siguiente script.</p>
 
 <a href="https://github.com/Ivanse90/tienda_de_barrio/blob/main/docker-compose.yml">Docker-compose</a>
 
+<h2>Flujo de componentes</h2>
+
+<a href="https://github.com/Ivanse90/tienda_de_barrio/blob/main/FlujoComponentes.jpg">Ivan</a>
 
 <h2>Documentacion Swagger</h2>
 <a href="https://github.com/Ivanse90/tienda_de_barrio/blob/main/ProductoSwagger%20UI.pdf">Domcumentacion API Productos</a>
