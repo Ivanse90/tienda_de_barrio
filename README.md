@@ -84,7 +84,7 @@
 
 <h2>Dockers</h2>
 
-<a href="https://github.com/Ivanse90/tienda_de_barrio/blob/main/Requerimientos%20de%20software%20Mi%20tienda_Final.pdf">Omar</a>
+<a href="https://github.com/Ivanse90/tienda_de_barrio/blob/main/docker-compose.yml">Docker-compose</a>
 
 
 <h2>Documentacion Swagger</h2>
