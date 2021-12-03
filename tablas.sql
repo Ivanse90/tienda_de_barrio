@@ -23,6 +23,7 @@ create table Pedido (
 	id_cliente int ,
 	id_producto int ,
 	cantidad int not null,
+	estado varchar(20),
 	foreign key (id_cliente) references Cliente(id_cliente),
 	foreign key (id_producto) references Producto(id_producto),
 	primary key (id_cliente, id_producto, id_pedido)
