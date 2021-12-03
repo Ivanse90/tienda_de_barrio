@@ -66,14 +66,26 @@
 <li>Se deben cumplir las políticas de Habeas Data para proteger información susceptible de los usuarios.</li>
 </ol>
 
-<h2>Base de Datos - Modelo Entidad Relacion</h2>
 
+<a href="https://github.com/Ivanse90/tienda_de_barrio/blob/main/Requerimientos%20de%20software%20Mi%20tienda_Final.pdf">Requerimientos Funcionales</a>
+
+
+
+
+<h2>Base de Datos - Modelo Entidad Relacion</h2>
+<a href="https://github.com/Ivanse90/tienda_de_barrio/blob/main/Requerimientos%20de%20software%20Mi%20tienda_Final.pdf">johana</a>
 
 <h2>Base de Datos - Script de base de datos</h2>
+<a href="https://github.com/Ivanse90/tienda_de_barrio/blob/main/Requerimientos%20de%20software%20Mi%20tienda_Final.pdf">johana</a>
 
 <h2>Microservicios</h2>
 
+<a href="https://github.com/Ivanse90/tienda_de_barrio/blob/main/Requerimientos%20de%20software%20Mi%20tienda_Final.pdf">Ivan</a>
+
 <h2>Dockers</h2>
+
+<a href="https://github.com/Ivanse90/tienda_de_barrio/blob/main/Requerimientos%20de%20software%20Mi%20tienda_Final.pdf">Omar</a>
+
 
 <h2>Documentacion Swagger</h2>
 <a href="http://localhost:8080/swagger-ui.html">Domcumentacion API Productos</a>
@@ -85,13 +97,18 @@
 <a href="https://github.com/Ivanse90/tienda_de_barrio/blob/main/Requerimientos%20de%20software%20Mi%20tienda.pdf">Vistas del diseño web</a>
 
 <h2>Mockups</h2>
+<a href="https://github.com/Ivanse90/tienda_de_barrio/blob/main/Requerimientos%20de%20software%20Mi%20tienda_Final.pdf">johana</a>
 
 <a href="https://www.figma.com/file/PP0J6bO2N16JMkCelWmkiQ/Mockups?node-id=88%3A639">Vistas del diseño web</a>
 
 <h2>Marquetizacion</h2>
 
+<a href="https://github.com/Ivanse90/tienda_de_barrio/blob/main/Requerimientos%20de%20software%20Mi%20tienda_Final.pdf">Wilmer</a>
+
+
 <h2>BPM</h2>
 
+<a href="https://github.com/Ivanse90/tienda_de_barrio/blob/main/Requerimientos%20de%20software%20Mi%20tienda_Final.pdf">johana</a>
 
 
 
