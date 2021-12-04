@@ -146,6 +146,8 @@ Para el diseño de los mockup nos enfocamos en 3 vistas principalmente:
 
 <a href="https://github.com/Ivanse90/tienda_de_barrio/blob/main/DIAGRAMA%20BPMN.pdf">Diagrama BPMN</a>
 
+<h2>Orquestacion Microservicios</h2>
+
 
 
 
