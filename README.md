@@ -114,8 +114,27 @@ cliente, producto y pedido, con el siguiente script.</p>
 <p> </p>
 
 <h2>Mockups</h2>
-<a href="https://github.com/Ivanse90/tienda_de_barrio/blob/main/Requerimientos%20de%20software%20Mi%20tienda_Final.pdf">johana</a>
+Para el diseño de los mockup nos enfocamos en 3 vistas principalmente:
+<li><b>Loggin </b> </li>
+</ul>
+<p>Para el loggin tenemos una vista con la opción de ingresar usuario y contraseña, olvide contraseña, registrarse y una especificación en un acerca de nosotros</p>
+<a href="https://github.com/Ivanse90/tienda_de_barrio/blob/main/LOGGIN%201.pdf">Loggin 1</a>
+<a href="https://github.com/Ivanse90/tienda_de_barrio/blob/main/LOGGIN%202.pdf">Loggin 2</a>
 
+<li><b>Catálogo </b> </li>
+</ul>
+<p>Para el catálogo tenemos una vista con el listado de los productos, imagen, nombre, precio de cada uno de dichos productos</p>
+<a href="https://github.com/Ivanse90/tienda_de_barrio/blob/main/CATALOGO%20DE%20PRODUCTOS.pdf">Catálogo</a>
+
+<li><b>Carrito de compras </b> </li>
+</ul>
+<p>En la vista del carrito de compras se encuentra una lista con los productos añadidos por el comprador, foto, nombre, cantidad, precio por unidad y precio total tanto de los productos como de toda la compra</p>
+<a href="https://github.com/Ivanse90/tienda_de_barrio/blob/main/CARRITO%20DE%20COMPRAS%201.pdf">Carrito de compras 1</a>
+<a href="https://github.com/Ivanse90/tienda_de_barrio/blob/main/CARRITO%20DE%20COMPRAS%202.pdf">Carrito de compras 2</a>
+<a href="https://github.com/Ivanse90/tienda_de_barrio/blob/main/CARRITO%20DE%20COMPRAS%203.pdf">Carrito de compras 3</a>
+<a href="https://github.com/Ivanse90/tienda_de_barrio/blob/main/CARRITO%20DE%20COMPRAS%204.pdf">Carrito de compras 4</a>
+
+<p>Para realizar los mockups utilizamos la herramienta fIGMA ONLINE en el que se puede apreciar todas las vistas diseñadas </p>
 <a href="https://www.figma.com/file/PP0J6bO2N16JMkCelWmkiQ/Mockups?node-id=88%3A639">Vistas del diseño web</a>
 
 <h2>Maqueta</h2>
