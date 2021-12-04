@@ -109,11 +109,11 @@ cliente, producto y pedido, con el siguiente script.</p>
 
 <h2>Documentacion Swagger</h2>
 <a href="https://github.com/Ivanse90/tienda_de_barrio/blob/main/ProductoSwagger%20UI.pdf">Domcumentacion API Productos</a>
-<p> </p>
+<p>http://localhost:8080/swagger-ui.html </p>
 <a href="https://github.com/Ivanse90/tienda_de_barrio/blob/main/PedidoSwagger%20UI.pdf">Domcumentacion API Pedidos</a>
-<p> </p>
+<p> http://localhost:8081/swagger-ui.html</p>
 <a href="https://github.com/Ivanse90/tienda_de_barrio/blob/main/ClientesSwagger%20UI.pdf">Domcumentacion API Clientes</a>
-<p> </p>
+<p>http://localhost:8082/swagger-ui.html</p>
 
 <h2>Mockups</h2>
 Para el diseño de los mockup nos enfocamos en 3 vistas principalmente:
