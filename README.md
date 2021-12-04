@@ -73,7 +73,7 @@
 
 
 <h2>Base de Datos - Modelo Entidad Relacion</h2>
-<a href="https://github.com/Ivanse90/tienda_de_barrio/blob/main/Requerimientos%20de%20software%20Mi%20tienda_Final.pdf">johana</a>
+<a href="https://github.com/Ivanse90/tienda_de_barrio/blob/main/modelo%20E-R.jpeg">Modelo</a>
 
 <h2>Base de Datos - Script de base de datos</h2>
 
