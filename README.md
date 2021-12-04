@@ -73,6 +73,7 @@
 
 
 <h2>Base de Datos - Modelo Entidad Relacion</h2>
+<img src="https://github.com/Ivanse90/tienda_de_barrio/blob/main/modelo%20E-R.jpeg" width="300">
 <a href="https://github.com/Ivanse90/tienda_de_barrio/blob/main/modelo%20E-R.jpeg">Modelo</a>
 
 <h2>Base de Datos - Script de base de datos</h2>
