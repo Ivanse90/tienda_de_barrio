@@ -96,7 +96,8 @@ cliente, producto y pedido, con el siguiente script.</p>
 
 <h2>Microservicios</h2>
 
-<a href="https://github.com/Ivanse90/tienda_de_barrio/blob/main/Requerimientos%20de%20software%20Mi%20tienda_Final.pdf">Ivan</a>
+<ul><li>Cliente</li><li>Pedido</li><li>Producto</li></ul>
+
 
 <h2>Dockers</h2>
 
