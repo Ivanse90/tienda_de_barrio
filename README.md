@@ -143,7 +143,7 @@ Para el diseño de los mockup nos enfocamos en 3 vistas principalmente:
 
 <h2>BPM</h2>
 
-<a href="https://github.com/Ivanse90/tienda_de_barrio/blob/main/Requerimientos%20de%20software%20Mi%20tienda_Final.pdf">johana</a>
+<a href="https://github.com/Ivanse90/tienda_de_barrio/blob/main/DIAGRAMA%20BPMN.pdf">Diagrama BPMN</a>
 
 
 
